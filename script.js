@@ -45,7 +45,6 @@ const emojiDictionary = {
         "neutral": "😐",
         
 
-    // Add more predefined emojis here
 };
 
 function translateToEmoji(text) {
